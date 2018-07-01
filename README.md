@@ -1,6 +1,8 @@
-# mangapark-dl
+# manga-dl
 
 ## to-do
-- [ ] read url, beautifulsoup4
-- [ ] download to folder
-- [ ] transform images to pdf (img2pdf)
+- [x] read url, beautifulsoup4
+- [x] download to folder
+- [ ] download specific chapters
+- [ ] format better filename 
+- [ ] transform images to pdf (img2pd
